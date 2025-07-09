@@ -8,12 +8,12 @@ This Act may be cited as the "Youth Homelessness SSI Reform Act" (YHSRA).
 ## Section 2: Findings
 Congress recognizes that:
 
-- Over 4,500 homeless youth exist in Washington state ([2024 Point-in-Time Count](https://example.com/pit-count)).
+- Over 4,500 homeless youth exist in Washington state ([2024 Point-in-Time Count](https://kcrha.org/wp-content/uploads/2025/05/Point-in-Time-Count-2024_King-County_final.pdf)).
 - 44% of these youth have qualifying disabilities.
 - Current SSI/SSDI rules ([42 U.S.C. §1382](https://www.law.cornell.edu/uscode/text/42/1382)) penalize homeless youth by:
   - Terminating or reducing benefits if recipients earn >$1,971/month (2024) or attend school >8 hours/week.
   - Forcing an impossible choice between basic survival (benefits) and self-sufficiency (education).
-- These policies perpetuate cycles of homelessness, costing taxpayers $35,000+/year per person in emergency services ([Study on Homelessness Costs](https://example.com/cost-study)).
+- These policies perpetuate cycles of homelessness, costing taxpayers $35,000+/year per person in emergency services ([Study on Homelessness Costs](https://pmc.ncbi.nlm.nih.gov/articles/PMC8863642/)).
 
 ## Section 3: Key Reforms
 
@@ -57,8 +57,8 @@ Mandate coordination between HUD and SSA to:
 [![Homeless Youth Statistics](images/homeless-youth-stats.png)](https://www.jpmorgan.com/content/dam/jpm/securities/images/article-images/Homelessness-infographic-1800-v02.png)
 
 ## Supporting Evidence
-- 92% of homeless youth who complete job training exit homelessness ([Covenant House, 2023](https://example.com/covenant-house)).
-- Massachusetts’ RAFT Program successfully waived income caps for students in subsidized housing ([RAFT Program Report](https://example.com/raft-report)).
+- 92% of homeless youth who complete job training exit homelessness ([Covenant House, 2023](https://www.covenanthouse.org/)).
+- Massachusetts’ RAFT Program successfully waived income caps for students in subsidized housing ([RAFT Program Report](https://www.metrohousingboston.org/about/policy-reports-and-publications/)).
 - [Watch YouthCare Testimony Video](https://youtube.com/youthcare-testimony)
 
 ## Requested Action from Rep. Jayapal
