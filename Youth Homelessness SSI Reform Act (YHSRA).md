@@ -54,7 +54,7 @@ Mandate coordination between HUD and SSA to:
 | **Housing Instability** | 32% of WA homeless youth are students   | Shields housing subsidies during school  |
 | **Racial Equity**  | 78% of Seattle’s homeless youth are BIPOC   | Targets systemic bias in benefit rules   |
 
-![Homeless Youth Statistics](images/homeless-youth-stats.png)
+[![Homeless Youth Statistics](images/homeless-youth-stats.png)](https://www.jpmorgan.com/content/dam/jpm/securities/images/article-images/Homelessness-infographic-1800-v02.png)
 
 ## Supporting Evidence
 - 92% of homeless youth who complete job training exit homelessness ([Covenant House, 2023](https://example.com/covenant-house)).
