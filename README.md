@@ -3,6 +3,7 @@ Exercise of GitHub as a platform for community development of public rule system
 |keyboard shortcut | VS Code IDE use |
 |----------------|------------------------------------------------|
 |CTRL+Shift + V  | swap between markdown and WYSIWYG preview mode |
+|CTRL+K, V|Split screen with edit and preview windows|
 
 **References**
 
