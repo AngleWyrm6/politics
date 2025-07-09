@@ -79,4 +79,4 @@ We welcome feedback by **[Insert Date]**:
 - How could this legislation better address intersectional needs (e.g., BIPOC, LGBTQ+ youth)?
 - Suggestions for strengthening enforcement mechanisms?
 
-Submit feedback via [GitHub Issues](https://github.com/username/LegislationDraft2025/issues) or email [contact@example.com](mailto:contact@example.com).
+Submit feedback via [GitHub Issues](https://github.com/username/LegislationDraft2025/issues)
