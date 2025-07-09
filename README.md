@@ -6,4 +6,5 @@ Exercise of GitHub as a platform for community development of public rule system
 
 **References**
 
-[Bootstrap conversation w/Grok](https://x.com/i/grok/share/WvXwLzKq5yuYuAAZc3tXMa7mX)
+* [Bootstrap conversation w/Grok](https://x.com/i/grok/share/WvXwLzKq5yuYuAAZc3tXMa7mX)
+* [Building platform expertise](https://www.perplexity.ai/search/i-ve-been-working-on-integrati-_GGLEHcdTmuD6gtBkFLhUA)
